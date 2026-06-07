@@ -1,0 +1,10 @@
+{
+  "display_name": "Shinsekai CI Smoke",
+  "desc": "Small test plugin for Registry Issue, R2 package, logo and update detection flows.",
+  "author": "Shinsekai Contributors",
+  "repo": "https://github.com/End0rph1nww/shinsekai-plugin-ci-smoke",
+  "lowest_shinsekai_version": ">=0.2.0",
+  "social_link": "https://github.com/End0rph1nww",
+  "tags": ["ci", "smoke", "test"]
+}
+
